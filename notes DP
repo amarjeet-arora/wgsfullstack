@@ -1,0 +1,53 @@
+Design patterns: well known sol of well known problem
+
+platform and language independent 
+
+300+ 
+
+GOF -> gang of four (23)
+
+structural 
+adapter
+bridge
+decorator 
+facade
+flyweight
+proxy
+
+
+behavioural:
+command
+iterator
+chain of responsibility 
+mediator
+observer
+strategy
+state
+visitor
+template method
+ 
+
+creational :
+
+Factory
+builder
+Abstract fac
+prototype
+singleton 
+
+
+
+open and close principal
+stratgy
+factory
+singleton with eager
+factory with properties
+
+
+
+
+
+
+
+
+
